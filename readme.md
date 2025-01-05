@@ -3,8 +3,6 @@ Corne Keyboard - CRKBD ZMK firmware with working RGB and OLEDs for Nice Nano V2 
 
 
 
-
-
 Shield: Corne V3
 
 Board: Nice!Nano V2
