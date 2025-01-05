@@ -1,7 +1,7 @@
 Corne Keyboard - CRKBD ZMK firmware with working RGB and OLEDs for Nice Nano V2 controllers.
 
 
-![alt text](crkbd.JPG)
+
 
 
 
